@@ -9,3 +9,6 @@
     - Fastapi 
     - OpenAI
     - imagekit
+    - SQLMODEL
+    - SQLITE
+    - REACT
