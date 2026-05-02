@@ -19,13 +19,9 @@
 
 <p align="center">
   <video controls width="720">
-    <source src="./frontend/public/Screencast%20From%202026-05-02%2018-54-26.mp4" type="video/mp4" />
+    <source src="https://raw.githubusercontent.com/gojiyashailesh/Agentic-AI--Samples-/main/frontend/public/screencast/demo.mp4" type="video/mp4" />
     Your browser does not support the video tag.
   </video>
-</p>
-
-<p align="center">
-  <a href="https://youtu.be/f2Ql0oQzZTc?si=NWQ8jNElMp4DKEEQ">Watch the demo on YouTube</a>
 </p>
 
 ## ✨ Features
