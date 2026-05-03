@@ -47,6 +47,9 @@
 - 📦 UV
 - 🧹 Ruff
 
+## Folder Structure 
+![Art Studio AI Image Generation Platform Preview](./frontend/public/Screenshot%20From%202026-05-04%2002-40-58.png)
+
 ## 🚀 Quick Start
 
 ```bash
